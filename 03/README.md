@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercício 05
+# Exercício 03
 
 ## Validando lista de compras
 
